@@ -11,7 +11,7 @@ Make sure you are connected to the internet.
 
 To create and save a document, do as follows:
 
-1. Open your browser.
+1. Open your  Firefox browser.
 
 1. Go to Google Docs.
 
